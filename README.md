@@ -1,5 +1,6 @@
 # Mahija_Verma07
-# Hi there, I'm [Mahija Verma] <img src="GIF/Hi.gif" width="40px" />
+# Hi there, I'm [Mahija Verma] 
+<img src="GIF/Hi.gif" width="40px" />
 
 ## About Me
 - 🔭 I'm currently working as a Model Based Developer.
