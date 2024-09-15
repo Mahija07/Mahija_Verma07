@@ -20,4 +20,4 @@
 -
 
 ## Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/mahija-verma/) | [Personal Website](Your website URL)
+[LinkedIn](https://www.linkedin.com/in/mahija-verma/) | [Some Of My Writings](https://mahija007.blogspot.com/)
