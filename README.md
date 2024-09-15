@@ -5,7 +5,7 @@
 - 🔭 I'm currently working as a Model Based Developer.
 - 🌱 I'm currently learning **AUTOSAR**
 - 👯 I'm looking to collaborate on **AUTOMOTIVE/BCM**
-- 💬 Ask me about MODEL bASED dEVELOPMENT
+- 💬 Ask me about MODEL BASED DEVELOPMENT
 - 📫 How to reach me: mahijaverma61@gmail.com
 
 ## My Skills
